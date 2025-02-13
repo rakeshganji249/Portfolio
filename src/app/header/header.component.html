@@ -1,0 +1,9 @@
+<header>
+  <h1>{{title}}</h1>
+  <nav>
+    <a (click)="navigateTo('/')" [ngClass]="{ 'active': currentRoute === '/' }">Home</a>
+    <!-- <a (click)="navigateTo('/about')" [ngClass]="{ 'active': currentRoute === '/about' }">About</a> -->
+    <a (click)="navigateTo('/projects')" [ngClass]="{ 'active': currentRoute === '/projects' }">Projects</a>
+    <a (click)="navigateTo('/contact')" [ngClass]="{ 'active': currentRoute === '/contact' }">Contact</a>
+  </nav>  
+</header>

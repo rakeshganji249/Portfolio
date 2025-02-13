@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Portfolio Website",
+      "description": "This portfolio website showcases my skills, experience, and projects in a structured and interactive manner. Built with modern web technologies, it features a clean and engaging design to ensure seamless navigation. The site includes sections for my professional background, project highlights, technical expertise, and contact details.",
+      "technologies": ["Angular", "TypeScript", "CSS", "HTML"]
+    },
+    {
+      "title": "UiPath Bot",
+      "description": "This UiPath bot automates repetitive tasks to improve efficiency and reduce manual effort. Designed with robust automation workflows, it streamlines processes such as data extraction, file handling, and system interactions. The bot enhances accuracy, saves time, and ensures seamless execution of business operations.",
+      "technologies": ["UiPath", "C#"]
+    },{
+        "title": "Pest Elimination Report Automation application",
+        "description": "This Pest Elimination Report Automation application, built using Model-Driven Power Apps, streamlines the reporting and tracking of pest control activities. It enables efficient data entry, record management, and automated reporting for pest elimination processes. The application enhances operational efficiency by reducing manual work and ensuring accurate data capture.",
+        "technologies": ["Power Apps", "JavaScript", "Power Automate","AJAX"]
+      }
+  ]
+  

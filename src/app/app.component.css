@@ -1,0 +1,5 @@
+.main-container {
+    display: flex;
+    flex-direction: row; /* Places items side by side */
+    height: calc(100vh - 64px);
+  }

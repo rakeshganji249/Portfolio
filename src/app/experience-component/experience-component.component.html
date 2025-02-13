@@ -1,0 +1,12 @@
+
+<div class="experience">
+    <h2>Experience</h2>
+    <ul>
+        @for (exp of experiences; track exp.role) {
+            <li (click)="selectExperience(exp.role)">
+              {{ exp.role }} at {{ exp.company }} ({{ exp.years }})
+            </li>
+          }
+    </ul>
+  </div>
+  
